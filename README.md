@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects in DevOps and Cloud Computing
 - 🤔 I’m looking for help with Kubernetes and AWS DevOps Engineer certification
 - 💬 Ask me about Scalable Project, Security best practices in Software Development and operations
-- 📫 How to reach me: oladimeji0107@gmail.com
+- 📫 How to reach me: oladimejiidowu.cv
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can brainwash you to always turn out goog and not give up on your dream just with my keys!! I mean't Piano
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/github/followers/[your-username]?label=Follow%20Me&style=social" alt="GitHub Followers">
+  <a href="https://github.com/dowlib1">
+    <img src="https://img.shields.io/github/followers/dowlib1?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]/">
+  <a href="https://www.linkedin.com/in/oladimeji-salawu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
-  <a href="mailto:[your-email]">
+  <a href="mailto:oladimeji0107@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-orange" alt="Email">
   </a>
 </p>
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 ## 🏆 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Oladimeji-Salawu]&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Oladimeji-Salawu]&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Oladimeji-Salawu]&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dowlib1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dowlib1&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowlib1&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -64,15 +64,15 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><a href="https://github.com/[Oladimeji-Salawu]/[project-1]"><b>[Project 1 Name]</b></a></td>
+    <td><a href="https://github.com/Dowlib1/MarketPeak_Ecommerce"><b>[AWS Solutions Architect in training]</b></a></td>
     <td>[I earned the AWS Cloud computing CPP]</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/[Oladimeji-Salawu]/[project-2]"><b>[Project 2 Name]</b></a></td>
+    <td><a href="https://github.com/Dowlib1/Zappy-e-Bank"><b>ALX Backend Software Engineer</b></a></td>
     <td>[Stundent of ALX Backend SE- Project Coming in handy. ~will be uploaded]</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/[Oladimeji-Salawu]/[project-3]"><b>[Project 3 Name]</b></a></td>
+    <td><a href="https://github.com/Dowlib1/Cloud-Computing-mini-project"><b>3MTT Devops-Kubernetes-Prometheus, Ansible anad more</b></a></td>
     <td>[Participated in the 3MTT-NiTDA Programme as a Junior DevOps Engineer, where I ptu in my skill: Containerization, Deployment, CI/Cd pipelines, IaaS, IaC PaaS ; look into my Repos]</td>
   </tr>
 </table>
