@@ -19,14 +19,15 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Backend Software Engineer | Passionate Learner | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Oladimeji Salawu</h1>
+<h3 align="center">AWS Certified Solutions Architect | Junior DevOps Eng | Backend Software Engineer | Passionate Learner | Problem Solver</h3>
 
 ---
 
 <p align="center">
   <a href="https://github.com/dowlib1">
     <img src="https://img.shields.io/github/followers/dowlib1?label=Follow%20Me&style=social" alt="GitHub Followers">
+     <img src="https://drive.google.com/file/d/130X7zAb_bb9OrvuB4dEGugT741P_wsJb/view?usp=sharing"/>
   </a>
   <a href="https://www.linkedin.com/in/oladimeji-salawu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
@@ -40,10 +41,11 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 I am currently an **ALX Backend Software Engineering Learner**
-- 💡 I started with software engineering because: **[I left music and needed a hobby that develops skills and make as much impact to across all continents]**
+- 🎓 I am currently an **ALX Certified Cloud Computing | Backend Software Engineer **
+- 💡 I started with software engineering because: **[I left teaching and needed a hobby that develops skills and make as much impact to across all continents]**
 - 🚀 My passion lies in: **[Crafting the future for the next generation and helping the less priviledged individual see a light of hope like myself, I will start from my locality, then grassroot, github and make it scale Globally]**
-- 🌱 I am inspired by: **[The WORD and laws of God's Love and Promises]**
+- 🌱 I am inspired by the Swedish phrase: **[”Give yourself permission to be curious. If you are interested in something or someone, just reach out, don’t hold yourself back. There’s a Swedish expression I love: frågan är fri (‘the question is free’).”
+Lara Szabo Greisman]**
 - 🛠️ I love working on projects like: **[Problems that are ambiguous, Simplifying it for optimal user experience.]**
 - 💬 Ask me about anything related to **Backend Development, APIs, Databases, and System Design, Devops tools and practices**
 - 📫 How to reach me: **[oladimeji0107@gmail.com]**
@@ -64,15 +66,15 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td><a href="https://github.com/Dowlib1/MarketPeak_Ecommerce"><b>[AWS Solutions Architect in training]</b></a></td>
-    <td>[I earned the AWS Cloud computing CPP]</td>
+    <td><a href="https://github.com/Dowlib1/Cloud-Computing-mini-project"><b>[AWS Certified Solutions Architect]</b></a></td>
+    <td>[I earned the AWS and alx_Africa Certified Cloud Architect CSAA]</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Dowlib1/Zappy-e-Bank"><b>ALX Backend Software Engineer</b></a></td>
-    <td>[Stundent of ALX Backend SE- Project Coming in handy. ~will be uploaded]</td>
+    <td><a href="https://github.com/Dowlib1/Alx_DjangoLearnLab"><b>ALX Backend Software Engineer</b></a></td>
+    <td>[Stundent of ALX Backend SE- Check Repos for Backend and DevOpd Projects]</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Dowlib1/Cloud-Computing-mini-project"><b>3MTT Devops-Kubernetes-Prometheus, Ansible anad more</b></a></td>
+    <td><a href="https://github.com/Dowlib1/3MTTProjects"><b>3MTT Devops-Kubernetes-Prometheus, Ansible anad more</b></a></td>
     <td>[Participated in the 3MTT-NiTDA Programme as a Junior DevOps Engineer, where I ptu in my skill: Containerization, Deployment, CI/Cd pipelines, IaaS, IaC PaaS ; look into my Repos]</td>
   </tr>
 </table>
@@ -88,7 +90,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <!-- Add more as relevant -->
+  <!-- Add more as relevant --> 
 </p>
 
 ---
