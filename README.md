@@ -98,7 +98,7 @@ Lara Szabo Greisman]**
 ## 📚 Currently Learning
 
 - [ ] Advanced Backend Architectures
-- [ ] Cloud Infrastructure (AWS, Azure)
+- [ ] Cloud Infrastructure (AWS, Azure, Huawei)
 - [ ] DevOps & CI/CD
 - [ ] Microservices and Distributed Systems
 
